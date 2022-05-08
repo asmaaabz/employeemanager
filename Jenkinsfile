@@ -35,7 +35,7 @@ pipeline {
                                             image 'ubuntu ' 
                                            } 
                                     }
-                              étapes { 
+                              etapes { 
                                 echo "Exécution du test d'intégration..." 
                               } 
                            } 
